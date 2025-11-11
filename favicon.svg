@@ -3,11 +3,11 @@
   <path d="M8 16 L8 48 L56 48 L56 24 L40 16 Z" fill="#1a0a2e" stroke="#8a2be2" stroke-width="1.5"/>
   <path d="M8 16 L40 16 L40 24 L8 24 Z" fill="#220d33" stroke="#8a2be2" stroke-width="1"/>
 
-  <!-- Неоновые буквы T и D -->
-  <text x="18" y="40" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="none" stroke="#ff00ff" stroke-width="1.5" stroke-linecap="round" filter="url(#neon-glow)">
+  <!-- Неоновые буквы T и D (увеличенный размер) -->
+  <text x="16" y="60" font-family="Arial, sans-serif" font-weight="bold" font-size="32" fill="none" stroke="#ff00ff" stroke-width="1.5" stroke-linecap="round" filter="url(#neon-glow)">
     T
   </text>
-  <text x="38" y="40" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="none" stroke="#8a2be2" stroke-width="1.5" stroke-linecap="round" filter="url(#neon-glow)">
+  <text x="36" y="60" font-family="Arial, sans-serif" font-weight="bold" font-size="32" fill="none" stroke="#8a2be2" stroke-width="1.5" stroke-linecap="round" filter="url(#neon-glow)">
     D
   </text>
 
